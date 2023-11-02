@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6050571349",
+    "project_id": "happysudoku-76917",
+    "storage_bucket": "happysudoku-76917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6050571349:android:2a24c54df317fd167960dc",
+        "android_client_info": {
+          "package_name": "com.MiniGames.HappySudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6050571349-3gpt6ijlakcrmn0gj9mdq93e1lhbev28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWXlqAA45sy4fusciFNLniSKikvd_2To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6050571349-3gpt6ijlakcrmn0gj9mdq93e1lhbev28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
